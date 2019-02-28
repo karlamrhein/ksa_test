@@ -24,4 +24,4 @@ suites:
       inspec_tests:
         - test/integration/default
     attributes:
-#     tags: test_tag
+      tags: test_tag
